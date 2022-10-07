@@ -11,3 +11,4 @@
 | 5 | 2020159 | https://github.com/AlexIoanP2020159 |
 | 6 | 2020062 | https://github.com/p20stab |
 | 7 | 2018204 | https://github.com/orgs/A-ST4R/people/SofiaChiali |
+| 8 | 2020129 | https://github.com/P2020129 |
