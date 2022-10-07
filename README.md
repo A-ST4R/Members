@@ -1,6 +1,5 @@
 # A-ST4R WELCOMES YOU!
-## Visit us at https://github.com/A-ST4R
- 
+
 ### OUR TEAM CONSISTS OF:
 
 | # | ΑΜ | GitHub profile |
