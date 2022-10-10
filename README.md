@@ -12,3 +12,7 @@
 | 6 | 2020062 | https://github.com/p20stab |
 | 7 | 2018204 | https://github.com/SofiaChiali |
 | 8 | 2020129 | https://github.com/P2020129 |
+
+## Organization Members note the following
+  * New coming members must update the table ubove with their info.
+  * For any questions regarding the assignments, don't hesitate to open a new discussion!
